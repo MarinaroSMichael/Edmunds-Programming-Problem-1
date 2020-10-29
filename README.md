@@ -10,6 +10,8 @@ name. The ID takes the first three letters of the input name and appends a
 three digit number to the end, which begins at 005 and increments by 5s for
 all names which would output the same initial 3 letters.
 
+# To Run
+A .jar executable <Run_Marinaro_Prog_Question_1> is included to run the program
 
 # Additionally:
 - Deleted IDs are reused. Example: If MIC005 is removed from the list, the 
